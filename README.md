@@ -11,7 +11,7 @@ This information on basic Markdown is from [John G.'s Markdown syntax specificat
 * **Emphasis** - *italics* are denoted with single surrounding asterisks, **bold** uses two surrounding asterisks, **_both bold and italicized_** is denoted with two surrounding asterisks around a surrounding underscore, and ~~strikethrough~~ is denoted with two surrounding tilde characters.
 * **Ordered Lists** - line start with '+', '-', or '\*' character.
 * **Unordered Lists** - line start with any number, a period, and a space like '1.'; actual number is replaced with number for the item position in the list.
-* **Links** - Link text enclosed in square brackets immediately followed by URL target address in parentheses.  An optional link title can be included in the parentheses in quotes following the URL and a space.  Example: \[link text\](http&#58;//address.url "link title").
+* **Links** - Link text enclosed in square brackets immediately followed by URL target address in parentheses.  An optional link title can be included in the parentheses in quotes following the URL and a space.  Example: \[link text\](http://address\.url "link title").
 * **
 
 ### GFM - Github Flavored Markdown
