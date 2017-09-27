@@ -1,3 +1,4 @@
+
 # All About Markdown
 *Non-authoritative* info about and examples for Markdown in the RFC standard, GFM, and Stackoverflow varieties.&nbsp; *Comprised of research notes and therefore not considered authoritative.*
 
@@ -13,6 +14,8 @@ This information on basic Markdown is from [John G.'s Markdown syntax specificat
 * **Unordered Lists** - line start with any number, a period, and a space like '1.'; actual number is replaced with number for the item position in the list.
 * **Links** - Link text enclosed in square brackets immediately followed by URL target address in parentheses.  An optional link title can be included in the parentheses in quotes following the URL and a space.  Example: \[link text\]\(url\_address\_text "link title"\).&nbsp; Reference style link definitions can either have the link text in both the text body and at the bottom of the text body, or have a number for the url address in another pair of square brackets after the link text, and list the actual url address at the bottom of the document.
 * **Images** - Can be inline style or reference style.&nbsp; Inline-style: !\[alternative text\]\(image\_link\_url\)\[image title text\].&nbsp; Reference-style !\[alt text\]\[reference text\], with the reference text at the text body bottom like \[reference text\]: image\_url\_address.
+* **Inline code highlighting** - denoted by surrounding backticks \`.
+* **Block code highlighting** - originally denoted by indenting all of the code block lines one tab or four spaces, in GFM code blocks can be denoted by a line with three backticks and the language, then the code block, then a line with three backticks.
 
 ### GFM - Github Flavored Markdown
 One of the most useful and popular sites that has a Markdown-style implementation is github.com.&nbsp; From the github.com page describing the [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/), the different Markdown elements that are available are:
