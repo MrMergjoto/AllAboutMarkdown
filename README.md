@@ -3,7 +3,9 @@
 
 ---
 ### Summary
-Markdown was initially created in 2004 as a perl preprocessor of plain text files or text data.&nbsp; Markdown is used by many websites to allow users to easily format text for readability, although several of the larger websites that have Markdown style text formatting capabilities have implemented custom features specific for the website users' needs.&nbsp; [RFC 7763](https://tools.ietf.org/html/rfc7763) describes Markdown as a "writing format" in contrast with HTML being a "publishing format".
+Markdown was initially created in 2004 as a perl preprocessor of plain text files or text data.&nbsp; Markdown is used by many websites to allow users to easily format text for readability, although several of the larger websites that have Markdown style text formatting capabilities have implemented custom features specific for the website users' needs.&nbsp; [RFC 7763](https://tools.ietf.org/html/rfc7763) describes Markdown as a "writing format" in contrast with HTML being a "publishing format".&nbsp; That RFC 7763 as well as [RFC 7764] put Markdown on a contextual spectrum as less formal then HTML or binary data file formats, and more formal than completely unstructured plain text.&nbsp; Because Markdown style is easily adapted for use in different contexts for different purposes often with purpose-specific functionality additions, there is no official standard Markdown.
+
+### Basic Markdown Stylization Elements
 
 ### GFM - Github Flavored Markdown
 One of the most useful and popular sites that has a Markdown-style implementation is github.com.&nbsp; From the github.com page describing the [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/), the different Markdown elements that are available are:
