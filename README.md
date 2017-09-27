@@ -1,4 +1,3 @@
-
 # All About Markdown
 *Non-authoritative* info about and examples for Markdown in the RFC standard, GFM, and Stackoverflow varieties.&nbsp; *Comprised of research notes and therefore not considered authoritative.*
 
@@ -16,6 +15,10 @@ This information on basic Markdown is from [John G.'s Markdown syntax specificat
 * **Images** - Can be inline style or reference style.&nbsp; Inline-style: !\[alternative text\]\(image\_link\_url\)\[image title text\].&nbsp; Reference-style !\[alt text\]\[reference text\], with the reference text at the text body bottom like \[reference text\]: image\_url\_address.
 * **Inline code highlighting** - denoted by surrounding backticks \`.
 * **Block code highlighting** - originally denoted by indenting all of the code block lines one tab or four spaces, in GFM code blocks can be denoted by a line with three backticks and the language, then the code block, then a line with three backticks.
+* **Tables** - columns are separated by the vertical bar character, with the column headers underlined by a text line of hyphens.&nbsp; The column header separator repeated hyphen lines can also indicate left/right/center alignment with semi-colons at the column header underline repeated hyphens start/end/both.
+* **Block Quotes** - Start each block quote line with a greater-than character.&nbsp If a single long text line starts with the greater-than character, the entire wrapped block should be quote indented.
+* **Horizontal Rule** - three or more hyphens, asterisks, or underscores.&nbsp; Depending on the css used to style the output, these might have different thicknesses.
+* **Line Breaks** - Two successive new lines should start a new paragraph.&nbsp; One newline does not usually separate a paragraph into two paragraphs.
 
 ### GFM - Github Flavored Markdown
 One of the most useful and popular sites that has a Markdown-style implementation is github.com.&nbsp; From the github.com page describing the [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/), the different Markdown elements that are available are:
