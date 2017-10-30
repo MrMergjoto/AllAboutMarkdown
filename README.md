@@ -1,5 +1,5 @@
 # All About Markdown
-*Non-authoritative* info about and examples for Markdown in the RFC standard, GFM, and Stackoverflow varieties.&nbsp; *Comprised of research notes and therefore not considered authoritative.*
+*Non-authoritative* info about and examples for Markdown in the RFC standard, GFM, and Stackoverflow varieties.&nbsp; *Comprised of research notes and not authoritative.*
 
 ---
 ### Summary
