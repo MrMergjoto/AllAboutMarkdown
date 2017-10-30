@@ -27,3 +27,6 @@ One of the most useful and popular sites that has a Markdown-style implementatio
 [Task Lists]: https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists
 [User and Team Mentions]: https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams
 [1]: https://help.github.com/articles/autolinked-references-and-urls/
+
+### StackOverflow.com Markdown
+https://stackoverflow.com/editing-help
